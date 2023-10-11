@@ -9,7 +9,7 @@
 This repository contains the code for my learning website, showcasing my Learning website,diffrent languages and more. The website is built using [React,Html, CSS, JavaScript], and it is designed to be fast, and user-friendly.
 
 **Live Website:** 
-http://cambly.epizy.com/cambly/
+https://passpicker.netlify.app
 
 ## Features
 
