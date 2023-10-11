@@ -1,6 +1,6 @@
 [![Netlify Status](https://api.netlify.com/api/v1/badges/f81a061c-df75-485e-bb01-008d54cc460a/deploy-status)](https://app.netlify.com/sites/passpicker/deploys)
 
-# Learning system
+# Password Genrator
 
 [![GitHub license](https://img.shields.io/badge/license-MIT-blue.svg)](http://cambly.epizy.com/cambly/blob/main/LICENS)
 
