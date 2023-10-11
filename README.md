@@ -22,10 +22,7 @@ http://cambly.epizy.com/cambly/
   
 ## Screenshot
 
-
-
-
-
+<img width="772" alt="Screenshot 2023-10-11 at 11 15 22 PM" src="https://github.com/Saty-am02/GenratePassword/assets/88832726/847540e7-53f2-4f01-84f2-8593eb7454ab">
 
 ## Contributing
 
